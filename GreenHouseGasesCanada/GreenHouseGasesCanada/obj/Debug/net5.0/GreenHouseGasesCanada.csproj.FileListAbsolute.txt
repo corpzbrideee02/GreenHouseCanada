@@ -1,0 +1,96 @@
+C:\Users\d_cor\GreenHouseGasesCanada\GreenHouseGasesCanada\bin\Debug\net5.0\GreenHouseGasesCanada.exe
+C:\Users\d_cor\GreenHouseGasesCanada\GreenHouseGasesCanada\bin\Debug\net5.0\GreenHouseGasesCanada.deps.json
+C:\Users\d_cor\GreenHouseGasesCanada\GreenHouseGasesCanada\bin\Debug\net5.0\GreenHouseGasesCanada.runtimeconfig.json
+C:\Users\d_cor\GreenHouseGasesCanada\GreenHouseGasesCanada\bin\Debug\net5.0\GreenHouseGasesCanada.runtimeconfig.dev.json
+C:\Users\d_cor\GreenHouseGasesCanada\GreenHouseGasesCanada\bin\Debug\net5.0\GreenHouseGasesCanada.dll
+C:\Users\d_cor\GreenHouseGasesCanada\GreenHouseGasesCanada\bin\Debug\net5.0\ref\GreenHouseGasesCanada.dll
+C:\Users\d_cor\GreenHouseGasesCanada\GreenHouseGasesCanada\bin\Debug\net5.0\GreenHouseGasesCanada.pdb
+C:\Users\d_cor\GreenHouseGasesCanada\GreenHouseGasesCanada\obj\Debug\net5.0\GreenHouseGasesCanada.csproj.AssemblyReference.cache
+C:\Users\d_cor\GreenHouseGasesCanada\GreenHouseGasesCanada\obj\Debug\net5.0\GreenHouseGasesCanada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d_cor\GreenHouseGasesCanada\GreenHouseGasesCanada\obj\Debug\net5.0\GreenHouseGasesCanada.AssemblyInfoInputs.cache
+C:\Users\d_cor\GreenHouseGasesCanada\GreenHouseGasesCanada\obj\Debug\net5.0\GreenHouseGasesCanada.AssemblyInfo.cs
+C:\Users\d_cor\GreenHouseGasesCanada\GreenHouseGasesCanada\obj\Debug\net5.0\GreenHouseGasesCanada.csproj.CoreCompileInputs.cache
+C:\Users\d_cor\GreenHouseGasesCanada\GreenHouseGasesCanada\obj\Debug\net5.0\GreenHouseGasesCanada.dll
+C:\Users\d_cor\GreenHouseGasesCanada\GreenHouseGasesCanada\obj\Debug\net5.0\ref\GreenHouseGasesCanada.dll
+C:\Users\d_cor\GreenHouseGasesCanada\GreenHouseGasesCanada\obj\Debug\net5.0\GreenHouseGasesCanada.pdb
+C:\Users\d_cor\GreenHouseGasesCanada\GreenHouseGasesCanada\obj\Debug\net5.0\GreenHouseGasesCanada.genruntimeconfig.cache
+C:\Users\Brittany\Downloads\GreenHouseGasesCanada\GreenHouseGasesCanada\GreenHouseGasesCanada\bin\Debug\net5.0\GreenHouseGasesCanada.exe
+C:\Users\Brittany\Downloads\GreenHouseGasesCanada\GreenHouseGasesCanada\GreenHouseGasesCanada\bin\Debug\net5.0\GreenHouseGasesCanada.deps.json
+C:\Users\Brittany\Downloads\GreenHouseGasesCanada\GreenHouseGasesCanada\GreenHouseGasesCanada\bin\Debug\net5.0\GreenHouseGasesCanada.runtimeconfig.json
+C:\Users\Brittany\Downloads\GreenHouseGasesCanada\GreenHouseGasesCanada\GreenHouseGasesCanada\bin\Debug\net5.0\GreenHouseGasesCanada.runtimeconfig.dev.json
+C:\Users\Brittany\Downloads\GreenHouseGasesCanada\GreenHouseGasesCanada\GreenHouseGasesCanada\bin\Debug\net5.0\GreenHouseGasesCanada.dll
+C:\Users\Brittany\Downloads\GreenHouseGasesCanada\GreenHouseGasesCanada\GreenHouseGasesCanada\bin\Debug\net5.0\ref\GreenHouseGasesCanada.dll
+C:\Users\Brittany\Downloads\GreenHouseGasesCanada\GreenHouseGasesCanada\GreenHouseGasesCanada\bin\Debug\net5.0\GreenHouseGasesCanada.pdb
+C:\Users\Brittany\Downloads\GreenHouseGasesCanada\GreenHouseGasesCanada\GreenHouseGasesCanada\obj\Debug\net5.0\GreenHouseGasesCanada.csproj.AssemblyReference.cache
+C:\Users\Brittany\Downloads\GreenHouseGasesCanada\GreenHouseGasesCanada\GreenHouseGasesCanada\obj\Debug\net5.0\GreenHouseGasesCanada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brittany\Downloads\GreenHouseGasesCanada\GreenHouseGasesCanada\GreenHouseGasesCanada\obj\Debug\net5.0\GreenHouseGasesCanada.AssemblyInfoInputs.cache
+C:\Users\Brittany\Downloads\GreenHouseGasesCanada\GreenHouseGasesCanada\GreenHouseGasesCanada\obj\Debug\net5.0\GreenHouseGasesCanada.AssemblyInfo.cs
+C:\Users\Brittany\Downloads\GreenHouseGasesCanada\GreenHouseGasesCanada\GreenHouseGasesCanada\obj\Debug\net5.0\GreenHouseGasesCanada.csproj.CoreCompileInputs.cache
+C:\Users\Brittany\Downloads\GreenHouseGasesCanada\GreenHouseGasesCanada\GreenHouseGasesCanada\obj\Debug\net5.0\GreenHouseGasesCanada.dll
+C:\Users\Brittany\Downloads\GreenHouseGasesCanada\GreenHouseGasesCanada\GreenHouseGasesCanada\obj\Debug\net5.0\ref\GreenHouseGasesCanada.dll
+C:\Users\Brittany\Downloads\GreenHouseGasesCanada\GreenHouseGasesCanada\GreenHouseGasesCanada\obj\Debug\net5.0\GreenHouseGasesCanada.pdb
+C:\Users\Brittany\Downloads\GreenHouseGasesCanada\GreenHouseGasesCanada\GreenHouseGasesCanada\obj\Debug\net5.0\GreenHouseGasesCanada.genruntimeconfig.cache
+C:\School\Declaritive Languages\GreenHouseGasesCanada\GreenHouseGasesCanada\GreenHouseGasesCanada\bin\Debug\net5.0\GreenHouseGasesCanada.exe
+C:\School\Declaritive Languages\GreenHouseGasesCanada\GreenHouseGasesCanada\GreenHouseGasesCanada\bin\Debug\net5.0\GreenHouseGasesCanada.deps.json
+C:\School\Declaritive Languages\GreenHouseGasesCanada\GreenHouseGasesCanada\GreenHouseGasesCanada\bin\Debug\net5.0\GreenHouseGasesCanada.runtimeconfig.json
+C:\School\Declaritive Languages\GreenHouseGasesCanada\GreenHouseGasesCanada\GreenHouseGasesCanada\bin\Debug\net5.0\GreenHouseGasesCanada.runtimeconfig.dev.json
+C:\School\Declaritive Languages\GreenHouseGasesCanada\GreenHouseGasesCanada\GreenHouseGasesCanada\bin\Debug\net5.0\GreenHouseGasesCanada.dll
+C:\School\Declaritive Languages\GreenHouseGasesCanada\GreenHouseGasesCanada\GreenHouseGasesCanada\bin\Debug\net5.0\ref\GreenHouseGasesCanada.dll
+C:\School\Declaritive Languages\GreenHouseGasesCanada\GreenHouseGasesCanada\GreenHouseGasesCanada\bin\Debug\net5.0\GreenHouseGasesCanada.pdb
+C:\School\Declaritive Languages\GreenHouseGasesCanada\GreenHouseGasesCanada\GreenHouseGasesCanada\obj\Debug\net5.0\GreenHouseGasesCanada.csproj.AssemblyReference.cache
+C:\School\Declaritive Languages\GreenHouseGasesCanada\GreenHouseGasesCanada\GreenHouseGasesCanada\obj\Debug\net5.0\GreenHouseGasesCanada.GeneratedMSBuildEditorConfig.editorconfig
+C:\School\Declaritive Languages\GreenHouseGasesCanada\GreenHouseGasesCanada\GreenHouseGasesCanada\obj\Debug\net5.0\GreenHouseGasesCanada.AssemblyInfoInputs.cache
+C:\School\Declaritive Languages\GreenHouseGasesCanada\GreenHouseGasesCanada\GreenHouseGasesCanada\obj\Debug\net5.0\GreenHouseGasesCanada.AssemblyInfo.cs
+C:\School\Declaritive Languages\GreenHouseGasesCanada\GreenHouseGasesCanada\GreenHouseGasesCanada\obj\Debug\net5.0\GreenHouseGasesCanada.csproj.CoreCompileInputs.cache
+C:\School\Declaritive Languages\GreenHouseGasesCanada\GreenHouseGasesCanada\GreenHouseGasesCanada\obj\Debug\net5.0\GreenHouseGasesCanada.dll
+C:\School\Declaritive Languages\GreenHouseGasesCanada\GreenHouseGasesCanada\GreenHouseGasesCanada\obj\Debug\net5.0\ref\GreenHouseGasesCanada.dll
+C:\School\Declaritive Languages\GreenHouseGasesCanada\GreenHouseGasesCanada\GreenHouseGasesCanada\obj\Debug\net5.0\GreenHouseGasesCanada.pdb
+C:\School\Declaritive Languages\GreenHouseGasesCanada\GreenHouseGasesCanada\GreenHouseGasesCanada\obj\Debug\net5.0\GreenHouseGasesCanada.genruntimeconfig.cache
+C:\Users\d_cor\Downloads\GreenHouseGasesCanada\GreenHouseGasesCanada\GreenHouseGasesCanada\bin\Debug\net5.0\GreenHouseGasesCanada.exe
+C:\Users\d_cor\Downloads\GreenHouseGasesCanada\GreenHouseGasesCanada\GreenHouseGasesCanada\bin\Debug\net5.0\GreenHouseGasesCanada.deps.json
+C:\Users\d_cor\Downloads\GreenHouseGasesCanada\GreenHouseGasesCanada\GreenHouseGasesCanada\bin\Debug\net5.0\GreenHouseGasesCanada.runtimeconfig.json
+C:\Users\d_cor\Downloads\GreenHouseGasesCanada\GreenHouseGasesCanada\GreenHouseGasesCanada\bin\Debug\net5.0\GreenHouseGasesCanada.runtimeconfig.dev.json
+C:\Users\d_cor\Downloads\GreenHouseGasesCanada\GreenHouseGasesCanada\GreenHouseGasesCanada\bin\Debug\net5.0\GreenHouseGasesCanada.dll
+C:\Users\d_cor\Downloads\GreenHouseGasesCanada\GreenHouseGasesCanada\GreenHouseGasesCanada\bin\Debug\net5.0\ref\GreenHouseGasesCanada.dll
+C:\Users\d_cor\Downloads\GreenHouseGasesCanada\GreenHouseGasesCanada\GreenHouseGasesCanada\bin\Debug\net5.0\GreenHouseGasesCanada.pdb
+C:\Users\d_cor\Downloads\GreenHouseGasesCanada\GreenHouseGasesCanada\GreenHouseGasesCanada\obj\Debug\net5.0\GreenHouseGasesCanada.csproj.AssemblyReference.cache
+C:\Users\d_cor\Downloads\GreenHouseGasesCanada\GreenHouseGasesCanada\GreenHouseGasesCanada\obj\Debug\net5.0\GreenHouseGasesCanada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d_cor\Downloads\GreenHouseGasesCanada\GreenHouseGasesCanada\GreenHouseGasesCanada\obj\Debug\net5.0\GreenHouseGasesCanada.AssemblyInfoInputs.cache
+C:\Users\d_cor\Downloads\GreenHouseGasesCanada\GreenHouseGasesCanada\GreenHouseGasesCanada\obj\Debug\net5.0\GreenHouseGasesCanada.AssemblyInfo.cs
+C:\Users\d_cor\Downloads\GreenHouseGasesCanada\GreenHouseGasesCanada\GreenHouseGasesCanada\obj\Debug\net5.0\GreenHouseGasesCanada.csproj.CoreCompileInputs.cache
+C:\Users\d_cor\Downloads\GreenHouseGasesCanada\GreenHouseGasesCanada\GreenHouseGasesCanada\obj\Debug\net5.0\GreenHouseGasesCanada.dll
+C:\Users\d_cor\Downloads\GreenHouseGasesCanada\GreenHouseGasesCanada\GreenHouseGasesCanada\obj\Debug\net5.0\ref\GreenHouseGasesCanada.dll
+C:\Users\d_cor\Downloads\GreenHouseGasesCanada\GreenHouseGasesCanada\GreenHouseGasesCanada\obj\Debug\net5.0\GreenHouseGasesCanada.pdb
+C:\Users\d_cor\Downloads\GreenHouseGasesCanada\GreenHouseGasesCanada\GreenHouseGasesCanada\obj\Debug\net5.0\GreenHouseGasesCanada.genruntimeconfig.cache
+C:\Users\Brittany\Downloads\GreenHouseGasesCanada\GreenHouseGasesCanada\GreenHouseGasesCanada\GreenHouseGasesCanada\bin\Debug\net5.0\GreenHouseGasesCanada.exe
+C:\Users\Brittany\Downloads\GreenHouseGasesCanada\GreenHouseGasesCanada\GreenHouseGasesCanada\GreenHouseGasesCanada\bin\Debug\net5.0\GreenHouseGasesCanada.deps.json
+C:\Users\Brittany\Downloads\GreenHouseGasesCanada\GreenHouseGasesCanada\GreenHouseGasesCanada\GreenHouseGasesCanada\bin\Debug\net5.0\GreenHouseGasesCanada.runtimeconfig.json
+C:\Users\Brittany\Downloads\GreenHouseGasesCanada\GreenHouseGasesCanada\GreenHouseGasesCanada\GreenHouseGasesCanada\bin\Debug\net5.0\GreenHouseGasesCanada.runtimeconfig.dev.json
+C:\Users\Brittany\Downloads\GreenHouseGasesCanada\GreenHouseGasesCanada\GreenHouseGasesCanada\GreenHouseGasesCanada\bin\Debug\net5.0\GreenHouseGasesCanada.dll
+C:\Users\Brittany\Downloads\GreenHouseGasesCanada\GreenHouseGasesCanada\GreenHouseGasesCanada\GreenHouseGasesCanada\bin\Debug\net5.0\ref\GreenHouseGasesCanada.dll
+C:\Users\Brittany\Downloads\GreenHouseGasesCanada\GreenHouseGasesCanada\GreenHouseGasesCanada\GreenHouseGasesCanada\bin\Debug\net5.0\GreenHouseGasesCanada.pdb
+C:\Users\Brittany\Downloads\GreenHouseGasesCanada\GreenHouseGasesCanada\GreenHouseGasesCanada\GreenHouseGasesCanada\obj\Debug\net5.0\GreenHouseGasesCanada.csproj.AssemblyReference.cache
+C:\Users\Brittany\Downloads\GreenHouseGasesCanada\GreenHouseGasesCanada\GreenHouseGasesCanada\GreenHouseGasesCanada\obj\Debug\net5.0\GreenHouseGasesCanada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brittany\Downloads\GreenHouseGasesCanada\GreenHouseGasesCanada\GreenHouseGasesCanada\GreenHouseGasesCanada\obj\Debug\net5.0\GreenHouseGasesCanada.AssemblyInfoInputs.cache
+C:\Users\Brittany\Downloads\GreenHouseGasesCanada\GreenHouseGasesCanada\GreenHouseGasesCanada\GreenHouseGasesCanada\obj\Debug\net5.0\GreenHouseGasesCanada.AssemblyInfo.cs
+C:\Users\Brittany\Downloads\GreenHouseGasesCanada\GreenHouseGasesCanada\GreenHouseGasesCanada\GreenHouseGasesCanada\obj\Debug\net5.0\GreenHouseGasesCanada.csproj.CoreCompileInputs.cache
+C:\Users\Brittany\Downloads\GreenHouseGasesCanada\GreenHouseGasesCanada\GreenHouseGasesCanada\GreenHouseGasesCanada\obj\Debug\net5.0\GreenHouseGasesCanada.dll
+C:\Users\Brittany\Downloads\GreenHouseGasesCanada\GreenHouseGasesCanada\GreenHouseGasesCanada\GreenHouseGasesCanada\obj\Debug\net5.0\ref\GreenHouseGasesCanada.dll
+C:\Users\Brittany\Downloads\GreenHouseGasesCanada\GreenHouseGasesCanada\GreenHouseGasesCanada\GreenHouseGasesCanada\obj\Debug\net5.0\GreenHouseGasesCanada.pdb
+C:\Users\Brittany\Downloads\GreenHouseGasesCanada\GreenHouseGasesCanada\GreenHouseGasesCanada\GreenHouseGasesCanada\obj\Debug\net5.0\GreenHouseGasesCanada.genruntimeconfig.cache
+C:\School\Declaritive Languages\GreenHouseGasesCanada\GreenHouseGasesCanada\bin\Debug\net5.0\GreenHouseGasesCanada.exe
+C:\School\Declaritive Languages\GreenHouseGasesCanada\GreenHouseGasesCanada\bin\Debug\net5.0\GreenHouseGasesCanada.deps.json
+C:\School\Declaritive Languages\GreenHouseGasesCanada\GreenHouseGasesCanada\bin\Debug\net5.0\GreenHouseGasesCanada.runtimeconfig.json
+C:\School\Declaritive Languages\GreenHouseGasesCanada\GreenHouseGasesCanada\bin\Debug\net5.0\GreenHouseGasesCanada.runtimeconfig.dev.json
+C:\School\Declaritive Languages\GreenHouseGasesCanada\GreenHouseGasesCanada\bin\Debug\net5.0\GreenHouseGasesCanada.dll
+C:\School\Declaritive Languages\GreenHouseGasesCanada\GreenHouseGasesCanada\bin\Debug\net5.0\ref\GreenHouseGasesCanada.dll
+C:\School\Declaritive Languages\GreenHouseGasesCanada\GreenHouseGasesCanada\bin\Debug\net5.0\GreenHouseGasesCanada.pdb
+C:\School\Declaritive Languages\GreenHouseGasesCanada\GreenHouseGasesCanada\obj\Debug\net5.0\GreenHouseGasesCanada.csproj.AssemblyReference.cache
+C:\School\Declaritive Languages\GreenHouseGasesCanada\GreenHouseGasesCanada\obj\Debug\net5.0\GreenHouseGasesCanada.GeneratedMSBuildEditorConfig.editorconfig
+C:\School\Declaritive Languages\GreenHouseGasesCanada\GreenHouseGasesCanada\obj\Debug\net5.0\GreenHouseGasesCanada.AssemblyInfoInputs.cache
+C:\School\Declaritive Languages\GreenHouseGasesCanada\GreenHouseGasesCanada\obj\Debug\net5.0\GreenHouseGasesCanada.AssemblyInfo.cs
+C:\School\Declaritive Languages\GreenHouseGasesCanada\GreenHouseGasesCanada\obj\Debug\net5.0\GreenHouseGasesCanada.csproj.CoreCompileInputs.cache
+C:\School\Declaritive Languages\GreenHouseGasesCanada\GreenHouseGasesCanada\obj\Debug\net5.0\GreenHouseGasesCanada.dll
+C:\School\Declaritive Languages\GreenHouseGasesCanada\GreenHouseGasesCanada\obj\Debug\net5.0\ref\GreenHouseGasesCanada.dll
+C:\School\Declaritive Languages\GreenHouseGasesCanada\GreenHouseGasesCanada\obj\Debug\net5.0\GreenHouseGasesCanada.pdb
+C:\School\Declaritive Languages\GreenHouseGasesCanada\GreenHouseGasesCanada\obj\Debug\net5.0\GreenHouseGasesCanada.genruntimeconfig.cache

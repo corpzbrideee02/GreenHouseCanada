@@ -1,0 +1,67 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net5.0": []
+  },
+  "packageFolders": {
+    "C:\\Users\\d_cor\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\d_cor\\Desktop\\op\\Dianne\\4th sem\\2nd_half\\declarative_lang\\project2\\GreenHouseGasesCanada(1)\\GreenHouseGasesCanada\\GreenHouseGasesCanada\\GreenHouseGasesCanada.csproj",
+      "projectName": "GreenHouseGasesCanada",
+      "projectPath": "C:\\Users\\d_cor\\Desktop\\op\\Dianne\\4th sem\\2nd_half\\declarative_lang\\project2\\GreenHouseGasesCanada(1)\\GreenHouseGasesCanada\\GreenHouseGasesCanada\\GreenHouseGasesCanada.csproj",
+      "packagesPath": "C:\\Users\\d_cor\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\d_cor\\Desktop\\op\\Dianne\\4th sem\\2nd_half\\declarative_lang\\project2\\GreenHouseGasesCanada(1)\\GreenHouseGasesCanada\\GreenHouseGasesCanada\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\d_cor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
